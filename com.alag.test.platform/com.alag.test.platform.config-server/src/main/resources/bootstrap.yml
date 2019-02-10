@@ -1,0 +1,20 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+server:
+  port: 8888
+spring:
+  application:
+    name: config-api
+  profiles:
+    active: native
+  security:
+    user:
+      name: admin
+      password: admin
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config

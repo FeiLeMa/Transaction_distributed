@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/com.alag.test.business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/all-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-a" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-a/a-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-a/a-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-a/a-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b/b-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b/b-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b/b-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.platform/com.alag.test.platform.config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.platform/com.alag.test.platform.eureka-server" charset="UTF-8" />
+  </component>
+</project>
