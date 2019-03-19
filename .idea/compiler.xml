@@ -16,6 +16,9 @@
         <module name="business-core" />
         <module name="config-server" />
         <module name="eureka-server" />
+        <module name="message-api" />
+        <module name="message-feigon" />
+        <module name="message-server" />
         <module name="mybatis-generate" />
       </profile>
     </annotationProcessing>

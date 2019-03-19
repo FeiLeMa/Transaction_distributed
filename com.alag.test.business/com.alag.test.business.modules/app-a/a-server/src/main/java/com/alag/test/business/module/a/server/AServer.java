@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-@EnableFeignClients(basePackages = {"com.alag.test.business.module.b.feign.controller"})
+@EnableFeignClients(basePackages = {"com.alag.test.business.module.b.feign.com.alag.test.business.module.message.feign.controller"})
 @EnableEurekaClient
 @SpringBootApplication
 @EnableTransactionManagement

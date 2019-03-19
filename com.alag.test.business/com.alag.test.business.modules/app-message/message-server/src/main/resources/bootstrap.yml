@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: app-message
+  profiles:
+    active: dev
+  cloud:
+    config:
+      profile: dev
+      name: app-public,app-message
+      url: http://144.34.177.139:8888
+      fail-fast: true
+      username: admin
+      password: admin

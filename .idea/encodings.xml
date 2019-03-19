@@ -13,6 +13,10 @@
     <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b/b-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b/b-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-b/b-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-message/message-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-message/message-feigon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.alag.test.business/com.alag.test.business.modules/app-message/message-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.alag.test.platform/com.alag.test.platform.config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.alag.test.platform/com.alag.test.platform.eureka-server" charset="UTF-8" />
   </component>

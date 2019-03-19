@@ -15,6 +15,7 @@
         <module>app-a</module>
         <module>app-b</module>
         <module>all-api</module>
+        <module>app-message</module>
     </modules>
 
     <dependencies>
